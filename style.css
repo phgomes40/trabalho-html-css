@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.quadrado{
+    width: 400px;
+    height: 967px;
+    background-color: chocolate;
+}
+.sobre{
+    position: absolute;
+    float: right;
+    top: 45%;
+    margin-left: 125px;
+    color: white;
+    padding: 31px;
+    font-size: 20px;
+}
+.etc{
+    position: absolute;
+    float: left;
+    top: 50%;
+    text-align: center;
+    margin-left: 118px;
+    color: rgb(158, 70, 7);
+    font-size: 20px;
+}
+
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    position: absolute;
+    margin-left: 55px;
+    top: 10%;
+    border: 8px solid brown;
+}
+.joao{
+    position: absolute;
+    margin-left: 23%;
+    top: 36%;
+    font-size: 87px;
+}
+.dasilva{
+    position: absolute;
+    margin-left: 34%;
+    top: 36%;
+    font-size: 87px;
+    color: brown;
+}
+.rua{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 23%;
+    top: 46%;
+}
+.email{
+    font-size: 20px;
+    position: absolute;
+    margin-left: 41%;
+    top: 46%;
+    color: brown;
+}
+.qualidades{
+    font-size: 18px;
+    position: absolute;
+    margin-left: 23%;
+    top: 54%;
+    color: #ccc;
+}
